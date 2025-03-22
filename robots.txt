@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jmuttram.github.io/inflectionpoint/sitemap.xml
